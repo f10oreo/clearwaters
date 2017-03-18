@@ -10,7 +10,7 @@ It is a 12 page website for a fictional bar and club, clearwaters.
 
 ## General Requirements for Project
 
-### Project Document– 10 points
+### Project Document – 10 points
 _1-2 page document covering the site you have built. Should include:_
 - Overview of site – 2 points
 - Design Choices you made – colors, fonts, images, layout, etc... - 2 points
@@ -19,7 +19,7 @@ _1-2 page document covering the site you have built. Should include:_
 - Possible ideas to enhance site in the future - 2 points
 
 
-### Projects Due – 40 points
+### Project Site – 40 points
 _Projects can be zipped and submitted. Should include:_
 - At least ten individual pages – 4 points
 - Minimum of one image per page in main body content – 3 points
