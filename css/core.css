@@ -29,6 +29,7 @@ header {
     h1 {
         font-family: Abel, Helvetica, Arial, sans-serif;
         font-size: 80px;
+        font-weight: 400;
         line-height: 75px;
         padding-top: 15px;
     }
@@ -36,6 +37,7 @@ header {
     p.subtitle {
         font-family: Abel, Helvetica, Arial, sans-serif;
         font-size: 21px;
+        font-weight: 400;
         padding: 0px;
     }
     
@@ -50,6 +52,7 @@ nav {
     background-color: #FFFFFF;
     font-family: Abel, Helvetica, Arial, sans-serif;
     font-size: 20px;
+    font-weight: 400;
     height: 42px;
     line-height: 22px;
     padding: 10px;
@@ -88,6 +91,7 @@ article {
     h2 {
         font-family: Abel, Helvetica, Arial, sans-serif;
         font-size: 21px;
+        font-weight: 400;
         margin-top: 7px;
         text-align: center; 
         text-decoration: underline;  
@@ -96,6 +100,7 @@ article {
     h2:first-child {
         font-family: Abel, Helvetica, Arial, sans-serif;
         font-size: 21px;
+        font-weight: 400;
         margin-top: 0px;
         text-align: center; 
         text-decoration: underline;  
@@ -104,6 +109,7 @@ article {
     h3 {
         font-family: Abel, Helvetica, Arial, sans-serif;
         font-size: 18px;
+        font-weight: 400;
         margin-top: 15px;
         text-align: center;
     }
