@@ -87,7 +87,7 @@ article {
 }
     h2 {
         font-family: Abel, Helvetica, Arial, sans-serif;
-        font-size: 23px;
+        font-size: 21px;
         margin-top: 7px;
         text-align: center; 
         text-decoration: underline;  
@@ -95,7 +95,7 @@ article {
     
     h2:first-child {
         font-family: Abel, Helvetica, Arial, sans-serif;
-        font-size: 23px;
+        font-size: 21px;
         margin-top: 0px;
         text-align: center; 
         text-decoration: underline;  
@@ -103,7 +103,7 @@ article {
     
     h3 {
         font-family: Abel, Helvetica, Arial, sans-serif;
-        font-size: 20px;
+        font-size: 18px;
         margin-top: 15px;
         text-align: center;
     }
@@ -115,17 +115,6 @@ article {
     p.link {
         padding-top: 10px;
         text-align: right;
-    }
-    
-    p.note {
-        color: #02A4A9;
-        font-family: Abel, Helvetica, Arial, sans-serif;
-        font-size: 14px;
-        margin: 0px 10px 0px 70px;
-        padding: 5px 13px;
-        text-align: right;
-        text-decoration: none;
-        width: 440px;       
     }
     
     a.link {
@@ -140,17 +129,7 @@ article {
         background-color: #FFFFFF;
         color: #02A4A9;
     }
-    
-    ul {
-        padding-top: 10px;
-        padding-left: 18px;
-    }
-    
-    li {
-        padding-bottom: 10px;
-        list-style-type: square;
-    }
-    
+       
     .bold {
         font-weight: 600;
         text-decoration: underline;
@@ -230,7 +209,7 @@ article.dir_links {
         color: #A4D8DA;
     }
 
-/* SIDEBAR */
+/* RIGHT SIDEBAR */
 aside {
     margin-left: 550px;
     overflow: hidden;
